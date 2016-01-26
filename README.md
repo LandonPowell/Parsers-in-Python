@@ -3,7 +3,7 @@ Some parsers I wrote in python when I got bored.
 
 ###License
 ```
-Copyright (c) <''year''> <''copyright holders''>
+Copyright (c) 2016 Landon James Powell
 
 This software is provided 'as-is', without any express or implied
 warranty. In no event will the authors be held liable for any damages
