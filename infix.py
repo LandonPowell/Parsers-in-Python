@@ -1,4 +1,4 @@
-x = input("> ").replace('(', ' ( ').replace('(', ' ( ').split()
+x = input("> ").split()
 
 def calculate(tokens):
     accumulator = float(tokens.pop(0))
