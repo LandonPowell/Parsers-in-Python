@@ -14,7 +14,6 @@ varList = {} # list of variables
 def varNames(variable):
     if type(variable) == float: return variable
     elif variable[0] == "'": return variable[1:-1]
-    elif variable[0] == "{": return json(variable) # JSON TO LIST LATER
     else: return varList[variable]
 
 def calculate(tokens): # calculates operators
